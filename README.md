@@ -2,7 +2,7 @@
 
 Here are code samples from various projects that I've worked on.
 Each folder holds code samples from different projects and a video showcasing the functions working in their own projects. 
-I have uploadd those same videos to Youtube and I'll have links to them written here in this README file, so you don't need to download them.
+I have uploaded those same videos to Youtube and I'll have links to them written here in this README file, so you don't need to download them.
 
 Here's an explanation on what each folder holds.
 
