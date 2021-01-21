@@ -34,6 +34,7 @@ worked on over the years and other miscellaneous things, while also showcasing m
 The code samples are from the front page, which shows my different projects. The projects are put in a JSON file, which is then read 
 and all the information is automatically put on the front page with certain rules applied to them that I've written, so that all of it is presented in the correct way and layout.
 Each project piece is then given individual cosmetic CSS changes to make them look unique and fitting to their "style".
+There's also a Header portion that is the Header of the site, that moves along the screen when scrolling down and it also changes from slight see through to full color block, when the page is scrolled down a bit. 
 
 Video of the code running in the project:
 https://www.youtube.com/watch?v=yZ5KJoX7igw&feature=youtu.be
