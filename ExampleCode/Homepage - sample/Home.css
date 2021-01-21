@@ -1,0 +1,212 @@
+.IntroductionBackground {
+    background-image: url(../../images/island.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.IntroductionBackgroundGradient > h2 {
+    text-align: center;
+    color: white;
+    margin: 15px 0 0 0;
+    font-family: 'Lora', serif;
+    font-size: 2em;
+    text-shadow: 0px 0px 5px black;
+}
+.IntroductionBackgroundGradient {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgb(68, 98, 169, 0.7);
+}
+.Introduction {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.Introduction > p {
+    color: white;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1em;
+    text-shadow: 0px 0px 5px black;
+}
+.Introduction > img {
+    /* max-width: 600px;
+    margin: 0 auto; */
+    /* display: flex; */
+    float: right;
+    height: auto;
+    max-width: 120px;
+    transform: scaleX(-1);
+}
+
+.ProjectSampleBackground {
+    background-repeat: no-repeat;
+}
+.ProjectSample {
+    padding: 90px 0 90px 0;
+    margin: 0;
+}
+
+.ProjectSample > .ProjectTitleLink {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} 
+
+.ProjectSample > .ProjectTitleLink > a > img {
+    height: auto;
+    max-width: 350px;  
+}
+ 
+.ProjectSample > .ProjectFlexContainer {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: center;
+    padding: 0 10px 20px 10px;
+    /* flex-wrap: wrap; */
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.ProjectSample > div > p {
+    flex: 1 2 55%;
+    font-size: 1.5em;
+    margin-right: 10px;
+    font-weight: 500;
+    text-shadow: 0px 0px 5px black;
+    color: white;
+    /* padding: 10px; 
+    border-radius: 25px;
+    box-shadow: 3px 8px 5px rgba(0, 0, 0, 0.6);
+    border: 3px solid black; */
+    font-family: 'Roboto', sans-serif;
+}
+.ProjectSample > div > iframe {
+    flex: 2 1 45%;
+    /* max-width:560px; 
+    max-height:315px;
+    */
+    min-height: 250px;
+    max-height: 500px;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 3px 8px 5px rgba(0, 0, 0, 0.6);
+    /* align-self: stretch; */
+}
+
+.ProjectSample > div > img {
+    flex: 2 1 45%;
+    height: auto;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 3px 8px 5px rgba(0, 0, 0, 0.6);
+}
+
+#GunsOfWreckage {
+    background-color: rgb(204, 14, 40, 0.6);
+}
+#GunsOfWreckage > div > iframe {
+    border-color: rgb(168, 10, 32);
+}
+#GunsOfWreckage > div > p {
+    /* background-color: rgb(245, 82, 104);
+    border: 3px solid  rgb(168, 10, 32);  */
+}
+#GunsOfWreckageBackground {
+    background-image: url(../../images/cityconcept.png);
+    background-size: cover;
+    background-position: center bottom;
+}
+
+#NurseVR {
+    /* background-color: cadetblue; */
+    /* background-image: linear-gradient(rgb(204, 14, 40),rgb(21, 168, 176, 0.2),rgb(21, 168, 176, 0.6),rgb(21, 168, 176, 0.8),rgb(21, 168, 176, 0.8), rgb(21, 168, 176)); */
+    background-color: rgba(18, 147, 154, 0.6);
+    padding-top: 150px;
+}
+#NurseVR > .ProjectTitleLink {
+    margin: 0px 0 40px 0;
+}
+#NurseVR > .ProjectTitleLink > a > h2 {
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    font-size: 2em;
+    border-bottom: 5px solid white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 5px rgb(0,0,0, 0.3);
+}
+#NurseVR > div > p {
+    margin-left: 30px;
+    margin-right: 0px;
+    order: 2;
+    /* border-color: rgb(15, 118, 123);
+    background-color: rgb(22, 176, 184); */
+}
+#NurseVR > div > iframe {
+    border-color: rgb(15, 118, 123);
+    order: 1;
+}
+#NurseVRBackground {
+    background-image: url(../../images/vrstock.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#Moonstruck {
+    /* background-color: darkslategray; */
+    /* background-image: linear-gradient(rgb(21, 168, 176),rgb(64, 8, 101, 0.2),rgb(64, 8, 101, 0.6),rgb(64, 8, 101, 0.8),rgb(64, 8, 101, 0.8), rgb(64, 8, 101)); */
+    background-color: rgb(64, 8, 101, 0.5);
+    padding-top: 150px;
+}
+#MoonstruckBackground {
+    background-image: url(../../images/scenecere.png);
+    background-size: cover;
+    background-position: center;
+}
+#Moonstruck > .ProjectTitleLink > a > img {
+    background-image: linear-gradient(rgb(0,0,0, 0.5), rgb(148, 166, 197),rgb(0,0,0, 0.5));
+    border: 3px solid black;
+    border-radius: 100px;
+    max-width: 400px;
+    padding: 10px 10px;
+    margin: 20px 0 60px 0;
+}
+#Moonstruck > div > p {
+    /* border-color: rgb(55, 7, 88);
+    background-color: rgb(137, 25, 211); */
+}
+#Moonstruck > div > img {
+    border-color: rgb(55, 7, 88);
+
+}
+
+#React {
+    /* background-image: linear-gradient(rgb(64, 8, 101),rgb(41, 41, 41, 0.2),rgb(41, 41, 41, 0.6),rgb(41, 41, 41, 0.8),rgb(41, 41, 41, 0.8), rgb(41, 41, 41)); */
+}
+#ReactBackground {
+    background-color: rgb(41, 41, 41);
+}
+#React > .ProjectTitleLink {
+    margin: 0px 0 40px 0;
+}
+#React > .ProjectTitleLink > a > h2 {
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    font-size: 2em;
+    border-bottom: 5px solid white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 5px rgb(0,0,0, 0.3);
+}
+#React > div > p {
+    margin-left: 30px;
+    margin-right: 0px;
+    order: 2;
+    /* border-color: rgb(60, 197, 235);
+    background-color: rgb(138, 138, 138); */
+}
+#React > div > img {
+    border-color: rgb(60, 197, 235);
+    background-color: rgb(41, 41, 41);
+    order: 1;
+}
