@@ -28,4 +28,6 @@ https://www.youtube.com/watch?v=OTCsSoa1i4c&feature=youtu.be
 
 
 Homepage - sample:
-This is a small project that I've been working on along side my final thesis report. 
+This is a small ongoing project that I've been working on along side my final thesis report for school. 
+It is supposed to be my homepage that will showcase different projects that I've
+worked on over the years and other miscellaneous things, while also showcasing my react skills.
