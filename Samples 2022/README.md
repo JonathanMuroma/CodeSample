@@ -1,4 +1,4 @@
-# ExampleCodeSamples
+# Code samples 2022
 
 Here are code samples from various projects that I've worked on.
 Each folder holds code samples from different projects and a video showcasing the functions working in their own projects. 
