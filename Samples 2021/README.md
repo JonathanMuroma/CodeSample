@@ -6,6 +6,7 @@ Each folder holds code samples from different projects and a video showcasing th
 I have uploaded those same videos to Youtube and I'll have links to them written here in this README file, so you don't need to download them.
 
 Here's an explanation on what each folder holds.
+
 --------------------------------------------------------------------------------------------
 <b>Cat data - raw code experiment:</b>
 This was a small experimental training I made while learning to use React. It was only meant to be for simple training purposes and nothing bigger than that.
@@ -15,6 +16,7 @@ The page will always show a cat and its information below it and when you go thr
 
 Video of the code running in the project:
 https://www.youtube.com/watch?v=BW8Erhbjih8&feature=youtu.be
+
 --------------------------------------------------------------------------------------------
 <b>Game Inventory - sample:</b>
 This one is part of an inventory system that I had created for a game project called Moonstruck Dancer.
