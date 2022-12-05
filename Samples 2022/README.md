@@ -14,7 +14,21 @@ Since the Elfving theme is used on multiple sites (approximately 8), is has been
 These businesses are stored in Wordpress as their own post type and contain the location coordinates and information regarding their services.
 
 Here is a link to two different sites that use this component:
+
 https://elfvingforteco.fi/jalleenmyynti-ja-huolto/
 
 https://peugeot-motocycles.fi/myynti-ja-huolto/
+
+
+<b>History gallery - Lauritzon site component:</b>
+
+This component is a simple gallery, that holds images and text and arranges them horizontally side by side, but change the placement of the image and text vertically between sets. This content can be easily cycled through by utilising the buttons in the center between the image and text area, which will move the view to the next text and image set when clicked, but if the user scrolls through the content, the button set moves automatically with them, so the button are never lost for the user.
+The content itself comes from Wordpress and is then displayed on the website.
+
+Here is a link to the page that utilises this component on the Lauritzon website. The component is after the title component:
+
+https://lauritzon.fi/about/our-story/
+
+
+<b>Player controller - from my final thesis project for my studes at Metropolia:</b>
 
