@@ -19,6 +19,7 @@ https://elfvingforteco.fi/jalleenmyynti-ja-huolto/
 
 https://peugeot-motocycles.fi/myynti-ja-huolto/
 
+--------------------------------------------------------------------------------------------
 
 <b>History gallery - Lauritzon site component:</b>
 
@@ -29,6 +30,7 @@ Here is a link to the page that utilises this component on the Lauritzon website
 
 https://lauritzon.fi/about/our-story/
 
+--------------------------------------------------------------------------------------------
 
 <b>Player controller - from my final thesis project for my studes at Metropolia:</b>
 
