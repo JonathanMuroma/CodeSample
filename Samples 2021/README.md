@@ -16,7 +16,7 @@ The page will always show a cat and its information below it and when you go thr
 Video of the code running in the project:
 https://www.youtube.com/watch?v=BW8Erhbjih8&feature=youtu.be
 
-Game Inventory - sample:
+<b>Game Inventory - sample:</b>
 This one is part of an inventory system that I had created for a game project called Moonstruck Dancer.
 How it works, is that the player can pick up items in the game world and they'll be added to the players inventory, 
 where they can inspect them by highlighting them and the name and a small description will appear on a text box, 
@@ -28,7 +28,7 @@ and not because of bad optimization! The project is still work in progress and t
 https://www.youtube.com/watch?v=OTCsSoa1i4c&feature=youtu.be
 
 
-Homepage - sample:
+<b>Homepage - sample:</b>
 This is a small project that I had worked on while I was also making my final thesis for school. This site was never completed, since I managed to get a job at Tecci in 2021. 
 
 It is "my homepage", made with React, that will showcase different projects that I've
