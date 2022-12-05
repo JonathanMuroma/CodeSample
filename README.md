@@ -1,6 +1,6 @@
 # Code samples
 
-This repo contains small snippets of code samples from different projects I've worked on. Most of them from web development, but also some from game development.
+This repo contains small snippets of code samples from different projects I've worked on. Most of them from web development, but also some relating to game development.
 
 I've separated these samples to their own folders and those folders by years, so to see the samples of my most recent work, all you need to do is check the most recent year folder to find them.
 
