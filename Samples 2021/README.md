@@ -1,6 +1,7 @@
-# ExampleCodeSamples
+# Code samples 2021
 
-Here are code samples from various projects that I've worked on.
+Here are code samples from various projects that I've worked on before and early 2021. 
+These samples are mostly showcasing my early skills in learning react and web development, but also a small glimpse at a game project that I was working on for school at that time too.
 Each folder holds code samples from different projects and a video showcasing the functions working in their own projects. 
 I have uploaded those same videos to Youtube and I'll have links to them written here in this README file, so you don't need to download them.
 
@@ -28,7 +29,7 @@ https://www.youtube.com/watch?v=OTCsSoa1i4c&feature=youtu.be
 
 
 Homepage - sample:
-This is a small ongoing project that I've been working on along side my final thesis report for school. 
+This is a small ongoing project that I had worked on while I was also making my final thesis for school. This site was never completed, since I managed to get a job at Tecci in 2021. 
 It is my homepage, made with React, that will showcase different projects that I've
 worked on over the years and other miscellaneous things, while also showcasing my react skills.
 The code samples are from the front page, which shows my different projects. The projects are put in a JSON file, which is then read 
