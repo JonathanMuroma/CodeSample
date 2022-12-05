@@ -32,5 +32,11 @@ https://lauritzon.fi/about/our-story/
 
 --------------------------------------------------------------------------------------------
 
-<b>Player controller - from my final thesis project for my studes at Metropolia:</b>
+<b>Player controller - from my final thesis project for my studies at Metropolia:</b>
+
+This is part of a playable character in Unity engine I made regarding my final thesis project for my studies. The code shows the logic regarding how its movement is made and controlled by the user. It contains calculations and checks regarding its movement logic within the game world.
+The project this was used for was a small 3D platformer, where the user had to navigate simple 3D spaces and obstacles to beat the game and was meant to study video game literacy of the user who was playing it.
+
+Here is a link to a video showcasing it in action:
+//Add link here!
 
