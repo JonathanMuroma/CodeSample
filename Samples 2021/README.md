@@ -29,8 +29,9 @@ https://www.youtube.com/watch?v=OTCsSoa1i4c&feature=youtu.be
 
 
 Homepage - sample:
-This is a small ongoing project that I had worked on while I was also making my final thesis for school. This site was never completed, since I managed to get a job at Tecci in 2021. 
-It is my homepage, made with React, that will showcase different projects that I've
+This is a small project that I had worked on while I was also making my final thesis for school. This site was never completed, since I managed to get a job at Tecci in 2021. 
+
+It is "my homepage", made with React, that will showcase different projects that I've
 worked on over the years and other miscellaneous things, while also showcasing my react skills.
 The code samples are from the front page, which shows my different projects. The projects are put in a JSON file, which is then read 
 and all the information is automatically put on the front page with certain rules applied to them that I've written, so that all of it is presented in the correct way and layout.
