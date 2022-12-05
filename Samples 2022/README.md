@@ -1,40 +1,20 @@
 # Code samples 2022
 
-Here are code samples from various projects that I've worked on.
-Each folder holds code samples from different projects and a video showcasing the functions working in their own projects. 
-I have uploaded those same videos to Youtube and I'll have links to them written here in this README file, so you don't need to download them.
+Here are code samples from various projects that I've worked on during my time at Tecci, between 2021-2023.
+Each folder holds code samples from different projects.
+You can get links to the sites and pages from this README file, that shows the code in action and what they actually do.
 
 Here's an explanation on what each folder holds.
 
-Cat data - raw code experiment:
-This was a small experimental training I made while learning to use React. It was only meant to be for simple training purposes and nothing bigger than that.
-I created a small JSON file that was filled with information of different cats and the idea was to be able to go through them by clicking buttons and searching with numbers to
-quickly skip through them.
-The page will always show a cat and its information below it and when you go through the cats, the information and image will change on the page.
+<b>Google map form - Elfving Wordpress Theme component:</b>
 
-Video of the code running in the project:
-https://www.youtube.com/watch?v=BW8Erhbjih8&feature=youtu.be
+This is a Google map form component from a Wordpress theme that I made and it is meant to be used to find different businesses around Finland that either sell or offer repairs for certain brands of vehicles. 
+The buttons can be used to filter specific brands and services offered.
+Since the Elfving theme is used on multiple sites (approximately 8), is has been designed in the way that its buttons can be styled a bit to fit different looking websites and also hide brand buttons, if the site is about one specific brand.
+These businesses are stored in Wordpress as their own post type and contain the location coordinates and information regarding their services.
 
-Game Inventory - sample:
-This one is part of an inventory system that I had created for a game project called Moonstruck Dancer.
-How it works, is that the player can pick up items in the game world and they'll be added to the players inventory, 
-where they can inspect them by highlighting them and the name and a small description will appear on a text box, 
-equip them by double clicking or combining items that are set to be combinable to create new ones. If the item the player is trying to combine aren't compatible with each 
-other, then a message will pop up on the screen telling the player that those items cannot be combined.
+Here is a link to two different sites that use this component:
+https://elfvingforteco.fi/jalleenmyynti-ja-huolto/
 
-Video of the code running in the project: (NOTE! the frame rate of the game in the video is very low, because I recorded the clip on my laptop, which is not very powerful
-and not because of bad optimization! The project is still work in progress and the footage might not necessarily represent the final product!)
-https://www.youtube.com/watch?v=OTCsSoa1i4c&feature=youtu.be
+https://peugeot-motocycles.fi/myynti-ja-huolto/
 
-
-Homepage - sample:
-This is a small ongoing project that I've been working on along side my final thesis report for school. 
-It is my homepage, made with React, that will showcase different projects that I've
-worked on over the years and other miscellaneous things, while also showcasing my react skills.
-The code samples are from the front page, which shows my different projects. The projects are put in a JSON file, which is then read 
-and all the information is automatically put on the front page with certain rules applied to them that I've written, so that all of it is presented in the correct way and layout.
-Each project piece is then given individual cosmetic CSS changes to make them look unique and fitting to their "style".
-There's also a Header portion that is the Header of the site, that moves along the screen when scrolling down and it also changes from slight see through to full color block, when the page is scrolled down a bit. 
-
-Video of the code running in the project:
-https://www.youtube.com/watch?v=yZ5KJoX7igw&feature=youtu.be
