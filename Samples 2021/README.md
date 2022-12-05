@@ -7,7 +7,7 @@ I have uploaded those same videos to Youtube and I'll have links to them written
 
 Here's an explanation on what each folder holds.
 
-Cat data - raw code experiment:
+<b>Cat data - raw code experiment:</b>
 This was a small experimental training I made while learning to use React. It was only meant to be for simple training purposes and nothing bigger than that.
 I created a small JSON file that was filled with information of different cats and the idea was to be able to go through them by clicking buttons and searching with numbers to
 quickly skip through them.
